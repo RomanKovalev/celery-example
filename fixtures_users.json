@@ -1,0 +1,13 @@
+[
+{
+  "model": "users.profile",
+  "pk": 1,
+  "fields": {
+    "user": 1,
+    "image": "profile_pics/iPhone_X_Copy_nh3EOpf.png",
+    "bio": "ddgdf",
+    "favoriteQuote": "dfdfdd",
+    "currentCity": "dfsdfd"
+  }
+}
+]
